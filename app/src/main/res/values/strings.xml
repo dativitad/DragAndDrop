@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DragAndDropTest</string>
+    <string name="drag_and_drop_fragment_label">Drag and Drop Fragment</string>
+    <string name="draggable_and_droppable_image">Draggable and Droppable Image</string>
+    <string name="drop_message">dropped successfully</string>
+</resources>

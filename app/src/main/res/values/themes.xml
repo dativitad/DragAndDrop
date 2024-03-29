@@ -1,0 +1,4 @@
+<resources>
+    <style name="Base.Theme.DragAndDropTest" parent="Theme.Material3.DayNight.NoActionBar" />
+    <style name="Theme.DragAndDropTest" parent="Base.Theme.DragAndDropTest" />
+</resources>
