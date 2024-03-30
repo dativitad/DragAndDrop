@@ -1,4 +1,4 @@
-package com.example.draganddroptest
+package com.example.draganddroptest.presentation
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
